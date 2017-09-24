@@ -49,7 +49,7 @@ public class Main {
 	}
 
 
-	void parseEpression(){
+	void parseExpression(){
 		//use additive operator as delimeter to get individual terms
 		//parse individual terms with parseTerm()
 		//apply logic to terms if terms are valid
